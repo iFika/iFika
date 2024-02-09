@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Sitorus</h1>
-<h3 align="center">Learn a Life and Execute a Life.</h3>
+<h3 align="center">Vincit qui se vincit.</h3>
 
 - 🔭 I’m currently working on **Dyka Cha-el B.V**
 - 🌱 I’m currently learning **React, Vue, Flutter**
