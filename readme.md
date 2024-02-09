@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Sitorus</h1>
 <h3 align="center">Learn a Life and Execute a Life.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ifika&label=Profile%20views&color=0e75b6&style=flat" alt="ifika" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ifika&theme=" alt="ifika" /></a> </p>
 
 - 🔭 I’m currently working on **Dyka Cha-el B.V**
 - 🌱 I’m currently learning **React, Vue, Flutter**
