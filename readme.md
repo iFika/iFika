@@ -39,6 +39,5 @@
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifika&layout=compact&theme=" alt=ifika />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ifika&show_icons=true&locale=en&theme=" alt="ifika" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ifika&theme=" alt="ifika" /></p>
